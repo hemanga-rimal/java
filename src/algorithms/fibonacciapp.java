@@ -21,5 +21,3 @@ public class fibonacciapp {
         return (fib(n-1) + fib(n-2));
     }
 }
-
-// testing comment for git
