@@ -1,6 +1,6 @@
 package com.beginner.controlflow;
 
-public class notes {
+public class NotesControlFlowLoop {
     public static void main(String[] args) {
 
         /* control flow - decision making and it enables
